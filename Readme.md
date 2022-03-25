@@ -1,11 +1,12 @@
 # activeLearning
 
 This package contains routines for active learning. This package is expected to be library
-agnostic and most importantly easy to use.
+agnostic and easy to use. It will contain several algorithms and will be upgraded as
+necessary.
 
 ## Prerequisites
 
-You will need to have a valid Python installation on your system. This has been tested with Python 3.6 - 3.8 
+You will need to have a valid Python installation on your system. This has been tested with Python 3.6 - 3.9. 
 
 ## Getting Started
 
