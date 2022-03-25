@@ -1,10 +1,11 @@
 # activeLearning
 
-One Paragraph of project description goes here
+This package contains routines for active learning. This package is expected to be library
+agnostic and most importantly easy to use.
 
 ## Prerequisites
 
-You will need to have a valid Python installation on your system. This has been tested with Python 3.6. 
+You will need to have a valid Python installation on your system. This has been tested with Python 3.6 - 3.8 
 
 ## Getting Started
 
